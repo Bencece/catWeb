@@ -22,24 +22,24 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-4">
-        <img class="img-fluid" src="img/cat1.jpg" alt="Cat1"> 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+        <div class="doboz">
+          <img class="img-fluid" src="img/korabbi/1.jpg" alt="Cat1">
+        </div>
       </div>
       <div class="col-sm-4">
-        <img class="img-fluid" src="img/cat2.jpg" alt="Cat2"> 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+        <div class="doboz">
+          <img class="img-fluid" src="img/korabbi/2.jpg" alt="Cat2">
+        </div>
       </div>
       <div class="col-sm-4">
-        <img class="img-fluid" src="img/cat3.jpg" alt="Cat3"> 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+        <div class="doboz">
+          <img class="img-fluid" src="img/korabbi/3.jpg" alt="Cat3">
+        </div>
       </div>
       <div class="col-sm-4">
-        <img class="img-fluid" src="img/cat3.jpg" alt="Cat3"> 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+        <div class="doboz">
+          <img class="img-fluid" src="img/korabbi/4.jpg" alt="Cat4">
+        </div>
       </div>
     </div>
   </div>

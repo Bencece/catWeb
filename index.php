@@ -19,12 +19,25 @@
     <?php include 'menu.php' ?>
   </div>
 
-  <div class="container">
-    <p>asd</p>
+  <div class="jumbotron text-justify" id="fo">
+    <div class="row">
+      <div class="col-sm-4">
+        <img class="img-fluid" src="img/front/1.jpg" alt="Cat1">
+      </div>
+      <div class="col-sm-4">
+        <img class="img-fluid" src="img/front/2.jpg" alt="Cat2">
+      </div>
+      <div class="col-sm-4">
+        <img class="img-fluid" src="img/front/3.jpg" alt="Cat3">
+      </div>
+    </div>
+    <br/>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, accusantium eveniet ex quos nesciunt illum cupiditate ut in soluta praesentium amet! Tenetur natus, blanditiis itaque assumenda odit dicta! Quos, ipsum.</p>
   </div>
 </body>
 <script>
   var btn = document.getElementById('1');
   btn.className += " active";
 </script>
+
 </html>
