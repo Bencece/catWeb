@@ -20,28 +20,7 @@
   </div>
 
   <div class="container">
-    <div class="row">
-      <div class="col-sm-4">
-        <img class="img-fluid" src="img/cat1.jpg" alt="Cat1"> 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-      </div>
-      <div class="col-sm-4">
-        <img class="img-fluid" src="img/cat2.jpg" alt="Cat2"> 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-      </div>
-      <div class="col-sm-4">
-        <img class="img-fluid" src="img/cat3.jpg" alt="Cat3"> 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-      </div>
-      <div class="col-sm-4">
-        <img class="img-fluid" src="img/cat3.jpg" alt="Cat3"> 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-      </div>
-    </div>
+    <p>asd</p>
   </div>
 </body>
 
