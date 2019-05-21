@@ -23,5 +23,8 @@
     <p>asd</p>
   </div>
 </body>
-
+<script>
+  var btn = document.getElementById('1');
+  btn.className += " active";
+</script>
 </html>

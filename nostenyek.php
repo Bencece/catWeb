@@ -44,5 +44,8 @@
     </div>
   </div>
 </body>
-
+<script>
+  var btn = document.getElementById('3');
+  btn.className += " active";
+</script>
 </html>
