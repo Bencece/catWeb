@@ -63,5 +63,7 @@
 <script>
   var btn = document.getElementById('3');
   btn.className += " active";
+  var btn1 = document.getElementById('33');
+  btn1.className += " active";
 </script>
 </html>

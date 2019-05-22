@@ -51,6 +51,8 @@
 <script>
   var btn = document.getElementById('2');
   btn.className += " active";
+  var btn1 = document.getElementById('22');
+  btn1.className += " active";
 </script>
 
 </html>
