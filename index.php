@@ -20,6 +20,7 @@
   </div>
 
   <div class="jumbotron text-justify" id="fo">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, accusantium eveniet ex quos nesciunt illum cupiditate ut in soluta praesentium amet! Tenetur natus, blanditiis itaque assumenda odit dicta! Quos, ipsum.</p>
     <div class="row">
       <div class="col-sm-4" id="foKep">
         <img class="img-fluid" src="img/front/1.jpg" alt="Cat1">
@@ -31,7 +32,6 @@
         <img class="img-fluid" src="img/front/3.jpg" alt="Cat3">
       </div>
     </div>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, accusantium eveniet ex quos nesciunt illum cupiditate ut in soluta praesentium amet! Tenetur natus, blanditiis itaque assumenda odit dicta! Quos, ipsum.</p>
   </div>
 </body>
 <script>

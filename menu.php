@@ -18,6 +18,9 @@
     <li id="5" class="nav-item">
       <a class="nav-link" href="galeria.php">Galéria</a>
     </li>
+    <li id="6" class="nav-item">
+      <a class="nav-link" href="elerhetoseg.php">Elérhetőség</a>
+    </li>
   </ul>
 </nav>
 
@@ -44,6 +47,9 @@
         </li>
         <li id="55" class="nav-item">
           <a class="nav-link" href="galeria.php">Galéria</a>
+        </li>
+        <li id="66" class="nav-item">
+          <a class="nav-link" href="elerhetoseg.php">Elérhetőség</a>
         </li>
       </ul>
     </div>
