@@ -22,7 +22,7 @@
     <div class="jumbotron text-justify" id="fo">
         <div class="row">
             <div class="col-sm-6">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1451.6197335391234!2d21.133673336188426!3d46.7053240313542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47442af74e76c485%3A0x1f7f0e320dd65ae8!2zQsOpa8Opc2NzYWJhLCBOYWd5csOpdCwgNTYwMA!5e1!3m2!1shu!2shu!4v1558543753783!5m2!1shu!2shu" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1573.4240629347348!2d21.140229519552054!3d46.70902728693182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDbCsDQyJzMyLjUiTiAyMcKwMDgnMjkuMyJF!5e1!3m2!1shu!2shu!4v1558639991382!5m2!1shu!2shu" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
             <div class="col-sm-6">
                 <h3>Elérhetőség:</h3>

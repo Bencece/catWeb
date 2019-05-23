@@ -24,25 +24,25 @@
       <div class="col-sm-4">
         <div class="doboz">
           <img class="img-fluid" src="img/himek/1.jpg" alt="Cat1">
-          <p class="text-center" id="cica_sz">Cica</p>
+          <p class="text-center" id="cica_sz">Benjámin</p>
         </div>
       </div>
       <div class="col-sm-4">
         <div class="doboz">
           <img class="img-fluid" src="img/himek/2.jpg" alt="Cat2">
-          <p class="text-center" id="cica_sz">Cica</p>
+          <p class="text-center" id="cica_sz">Edwin</p>
         </div>
       </div>
       <div class="col-sm-4">
         <div class="doboz">
           <img class="img-fluid" src="img/himek/3.jpg" alt="Cat3">
-          <p class="text-center" id="cica_sz">Cica</p>
+          <p class="text-center" id="cica_sz">Berlioz</p>
         </div>
       </div>
       <div class="col-sm-4">
         <div class="doboz">
           <img class="img-fluid" src="img/himek/4.jpg" alt="Cat4">
-          <p class="text-center" id="cica_sz">Cica</p>
+          <p class="text-center" id="cica_sz">Benjámin</p>
         </div>
       </div>
     </div>
