@@ -62,7 +62,7 @@
         <p><strong>FeLV:</strong> Macska leukózis. Az állat sejtjeibe jutva azok osztódási folyamatát károsítja. Emberre és más állatfajra nem terjed.&nbsp; Legnagyobb kockázatnak a kóborló, verekedő NEM ivartalanított macskák vannak kitéve. A vemhes állatoktól a kölykök is fertőzöttek lesznek. Vértesztből állapítható meg.</p>
         <p><i><span style="text-decoration:underline;">Terjedése:</span></i> Nyál, vér, vizelet, tej ill. egyéb testnedvek (szem-, orrváladék)</p>
         <p><i><span style="text-decoration:underline;">Tünetek:</span></i> Sok ideig tünetmentes a betegség, de ilyenkor képesek társaikat már megfertőzni. Jellemző a súlyveszteség, gyengeség, láz, felső légúti gyulladás, kötőhártya-gyulladás, hasmenés, szájbeli fekélyek.</p>
-        <p>Forrás: www.mainecooncica.wordpress.com/honnanhogyan/betegsegek/</p>
+        <p>Forrás: www.mainecooncica.wordpress.com</p>
     </div>
 </body>
 <script>
