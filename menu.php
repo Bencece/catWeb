@@ -53,6 +53,9 @@
         <li id="55" class="nav-item">
           <a class="nav-link" href="galeria.php">Galéria</a>
         </li>
+        <li id="77" class="nav-item">
+          <a class="nav-link" href="tudni.php">Amit a fajtáról tudni kell</a>
+        </li>
         <li id="66" class="nav-item">
           <a class="nav-link" href="elerhetoseg.php">Elérhetőség</a>
         </li>
